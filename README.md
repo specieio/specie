@@ -3,7 +3,7 @@
 
 Alpha V1 ; Abstract 
 
-	Current Liquidity Pools determine the balance of the pools value based on predetermined algorithms. These predetermined algorithms however have become notorious for causing “Impermanent Loss”.
+Current Liquidity Pools determine the balance of the pools value based on predetermined algorithms. These predetermined algorithms however have become notorious for causing “Impermanent Loss”.
 o	“a 1.25x price change results in a 0.6% loss relative to HODL”
 o	“a 1.50x price change results in a 2.0% loss relative to HODL”
 o	“a 1.75x price change results in a 3.8% loss relative to HODL”
@@ -72,4 +72,6 @@ Users will now have the ability to govern an automated ecosystem of assets based
 
 ![image](https://user-images.githubusercontent.com/69151655/116327732-0cafb080-a78d-11eb-93f4-e2ceadc2280d.png)
 
+
+		Asset Management Pods with Interconnected User AMM Logic Liquidity Pools
 
