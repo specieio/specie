@@ -38,7 +38,7 @@ Right now, liquidity pools are isolated and use few logic commands to speak to e
 
 ![image](https://user-images.githubusercontent.com/69151655/116327466-6fed1300-a78c-11eb-8342-bf6a057fbac2.png)
 
-				                                                      Current Liquidity Pools Smart Contract Logic
+				   Current Liquidity Pools Smart Contract Logic
 
 
 
@@ -52,7 +52,7 @@ Right now, liquidity pools are isolated and use few logic commands to speak to e
 ![image](https://user-images.githubusercontent.com/69151655/116327654-e4c04d00-a78c-11eb-94f6-45ea08900b7f.png)
 
 
-				                                                            Interconnected Liquidity Pool Logic
+				        Interconnected Liquidity Pool Logic
 
 
 3.	Automated User Logic
@@ -62,7 +62,7 @@ Right now, liquidity pools are isolated and use few logic commands to speak to e
 ![image](https://user-images.githubusercontent.com/69151655/116327668-f0137880-a78c-11eb-907f-d6ac8e5d1e76.png)
                              
                              
-                                                                       iLPs User preference AMM logic
+                                           iLPs User preference AMM logic
 
 
 4.	Liquidity Pool’s Asset Management Pods
